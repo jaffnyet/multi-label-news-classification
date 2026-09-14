@@ -32,7 +32,7 @@ We optimized the inference thresholds for each model to maximize the Macro F1-sc
 
 ## 💻 Interactive Dashboard (Gradio)
 We wrapped the fine-tuned modeling pipeline into an interactive **Gradio web application**. Users can paste raw news wires into the UI and watch the four models classify the text in real-time.
-> `Gradio_Demo.png`
+> ![Gradio Demo](Gradio_Demo.png)
 
 ## 🛠️ Tech Stack
 * **Modeling:** PyTorch, Hugging Face `transformers`, `datasets`
@@ -44,5 +44,5 @@ We wrapped the fine-tuned modeling pipeline into an interactive **Gradio web app
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/](https://github.com/)jaffnyet/multi-label-news-classification.git
+git clone https://github.com/jaffnyet/multi-label-news-classification.git
 cd multi-label-news-classification
