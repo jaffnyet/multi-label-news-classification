@@ -1,0 +1,22 @@
+# Deep Learning & NLP
+torch>=2.0.0
+transformers>=4.40.0
+datasets
+evaluate
+accelerate
+
+# Machine Learning & Data Processing
+scikit-learn
+numpy
+pandas
+nltk
+
+# Model Serialization
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# UI Dashboard
+gradio
